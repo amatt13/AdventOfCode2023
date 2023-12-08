@@ -1,6 +1,6 @@
-from input_files.day3_input import day_3_input_string
 from typing import Optional, List
 
+from input_files.day3_input import day_3_input_string
 
 short_input_string = """467..114..
 ...*......
