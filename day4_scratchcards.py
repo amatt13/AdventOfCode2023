@@ -62,7 +62,6 @@ def part2():
                 card_to_copy_index = idx + x
                 if card_to_copy_index <= len(built_cards):
                     built_cards[card_to_copy_index].copies += 1
-        pass
     return sum([card.copies for card in built_cards])
 
 
