@@ -20,7 +20,7 @@ part1_races = [
     Race(time=94, distance=1055),
 ]
 
-part1_simple_race = Race(time=71530, distance=940200)
+part2_simple_race = Race(time=71530, distance=940200)
 part2_race = Race(time=41968894, distance=214178911271055)
 
 
