@@ -1,13 +1,6 @@
 from input_files.day1_input import day_1_input_string
 
-short_input_string = """twoonetwo
-two1nine
-eightwothree
-abcone2threexyz
-xtwone3four
-4nineeightseven2
-zoneight234
-7pqrstsixteen"""
+short_input_string = """The author of Advent of Code, has specifically requested people to not include the input strings. So I won't."""
 
 
 input_string = day_1_input_string
