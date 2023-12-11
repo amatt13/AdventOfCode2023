@@ -7,11 +7,7 @@ from input_files.day7_input import day7_input_string
 
 
 PART2_JOKER_RANK = 0
-simple_input_string = """32T3K 765
-T55J5 684
-KK677 28
-KTJJT 220
-QQQJA 483"""
+simple_input_string = """The author of Advent of Code, has specifically requested people to not include the input strings. So I won't."""
 
 
 class HandType(IntEnum):
