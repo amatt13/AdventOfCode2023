@@ -2,16 +2,7 @@ from typing import Optional, List
 
 from input_files.day3_input import day_3_input_string
 
-short_input_string = """467..114..
-...*......
-..35..633.
-......#...
-617*......
-.....+.58.
-..592.....
-......755.
-...$.*....
-.664.598.."""
+short_input_string = """The author of Advent of Code, has specifically requested people to not include the input strings. So I won't."""
 
 input_string = day_3_input_string
 
